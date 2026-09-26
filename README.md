@@ -1,4 +1,4 @@
-# Hi, I'm Porosh 👋
+# Hi, I'm <Porosh> 👋
 
 ### Full Stack Web Developer
 
@@ -10,7 +10,7 @@ using React, Next.js, TypeScript, and Node.js.
 ## 🚀 About Me
 
 - 💻 Full Stack Web Developer
-- ⚛️ React & Next.js
+- ⚛️ React & Next.js applications
 - 🟦 TypeScript
 - 🎨 Tailwind CSS & shadcn/ui
 - 🌱 Currently improving my full-stack development skills
@@ -21,26 +21,20 @@ using React, Next.js, TypeScript, and Node.js.
 ## 🛠️ Tech Stack
 
 ### Frontend
-React
-Next.js
-TypeScript
-JavaScript
-Tailwind CSS
-shadcn/ui
+JavaScript · TypeScript · React · Next.js · Tailwind CSS
 
 ### Backend
-Node.js
-Express.js
-MongoDB
+Node.js · Express.js · MongoDB · REST APIs
+
+### Analytics & Tracking
+Google Tag Manager · GA4 · Meta Pixel · Conversion Tracking · Data Layer
 
 ### Tools
-Git
-GitHub
-VS Code
-Vercel
+Git · GitHub · Docker · Vercel
+
 
 ---
 
 ## 📫 Connect With Me
 
-📦 GitHub: @poroshhossain
+📦 **GitHub:** [@poroshhossain](https://github.com/poroshhossain)
