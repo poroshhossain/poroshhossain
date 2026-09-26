@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Porosh 👋
 
-<!--
-**poroshhossain/poroshhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer
 
-Here are some ideas to get you started:
+I build modern, responsive, and user-friendly web applications
+using React, Next.js, TypeScript, and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Web Developer
+- ⚛️ React & Next.js
+- 🟦 TypeScript
+- 🎨 Tailwind CSS & shadcn/ui
+- 🌱 Currently improving my full-stack development skills
+- 🔭 Building real-world web projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+React
+Next.js
+TypeScript
+JavaScript
+Tailwind CSS
+shadcn/ui
+
+### Backend
+Node.js
+Express.js
+MongoDB
+
+### Tools
+Git
+GitHub
+VS Code
+Vercel
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Book Vibe
+A modern book management web application built with Next.js.
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+🔗 Live Demo  
+🔗 GitHub Repository
+
+---
+
+## 📊 GitHub Stats
+
+...
+
+---
+
+## 📫 Connect With Me
+
+Portfolio  
+LinkedIn  
+Email
