@@ -1,4 +1,4 @@
-# Hi, I'm <Porosh> 👋
+# Hi, I'm Porosh👋
 
 ### Full Stack Web Developer
 
