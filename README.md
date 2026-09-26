@@ -41,29 +41,6 @@ Vercel
 
 ---
 
-## 📌 Featured Projects
-
-### 📚 Book Vibe
-A modern book management web application built with Next.js.
-
-- Next.js
-- TypeScript
-- Tailwind CSS
-- shadcn/ui
-
-🔗 Live Demo  
-🔗 GitHub Repository
-
----
-
-## 📊 GitHub Stats
-
-...
-
----
-
 ## 📫 Connect With Me
 
-Portfolio  
-LinkedIn  
-Email
+📦 GitHub: @poroshhossain
