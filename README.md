@@ -40,7 +40,3 @@ Git · GitHub · Docker · Vercel
 
 
 ---
-
-## 📫 Connect With Me
-
-📦 **GitHub:** [@poroshhossain](https://github.com/poroshhossain)
