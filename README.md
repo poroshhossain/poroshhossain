@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/poroshhossain/poroshhossain/blob/25e4545a7192a8bf29630da73156617660c65ead/benner.png" alt="Md Porosh Hossain" width="100%" />
+  <img src="https://github.com/poroshhossain/poroshhossain/raw/25e4545a7192a8bf29630da73156617660c65ead/benner.png" alt="Md Porosh Hossain" width="100%" />
 </p>
 
 # Hi, I'm Porosh👋
