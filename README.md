@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a **Web Engineer with 5+ years of experience in web development**, focused on building reliable and user-friendly digital solutions.
+I'm a **Web Engineer**, focused on building reliable and user-friendly digital solutions.
 
 * Full-stack web development
 * Modern websites and web applications
